@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sofia Mercela Medina Díaz</h1>
+<h1 align="center">Hi 👋, I'm Sofia Marcela Medina Díaz</h1>
 <h3 align="center">I'm 17 years old. I like programming and technology a lot . I have foundation en programación in HTML, CSS and JavaScript. I seek to improve as a programmer and person everyday.</h3>
 
 <h3 align="left">Connect with me:</h3>

@@ -12,6 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s0fiamedina&label=Profile%20views&color=0e75b6&style=flat" alt="s0fiamedina" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s0fiamedina" alt="s0fiamedina" /></a> </p>
+
 ### Frontend  
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  

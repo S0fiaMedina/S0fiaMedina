@@ -1,4 +1,4 @@
-### <div align="center">I'm Sofia Medina. I'm 18 years old and I look for get better at Programming</div>  
+### <div align="center">Hi, I'm Sofia Medina</div>  
   
 
 - 🌱 I’m currently learning  web Development in CampusLands  

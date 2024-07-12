@@ -1,4 +1,4 @@
-### <div align="center">Hi, I'm Sofia Medina</div>  
+#  <div align="center" style="color:blue">💙 Welcome to my world 💙</div>  
   
 
 - 🌱 I’m currently learning  Java, TypeScript and SpringBoot

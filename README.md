@@ -1,3 +1,5 @@
+<img src="banner.png">
+
 <div align="center">
   <h1 style="color:blue; font-weight:bold;"> Hi, I'm Sofia Medina</h1>
 </div>
